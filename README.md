@@ -1,9 +1,55 @@
-> _Fork_ deze deeltaak en ga aan de slag. 
-Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
-De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Naam deeltaak
+# Vini Mini 🥜 - Living Styleguide
 
+<img width="1440" alt="Schermafbeelding 2022-11-18 om 09 31 15" src="https://user-images.githubusercontent.com/112856019/202656913-2764f569-25af-444b-a621-e8fafc8bcc77.png">
+
+
+## 📚 Inhoudsopgave
+
+Beschrijving
+Kenmerken
+Bronnen
+Licentie
+
+## 🗒️ Beschrijving
+
+Living Styleguide 🖌️:
+
+Opdrachtgever Vini Mini 🥜:
+
+Vini Mini is een start up en is opgericht door twee moeders, Vini Mini verkoopt producten om vroegtijdig allergenen te voorkomen. Vini Mini wil in de toekomst hun assortiment verbreiden met meer allergenen en ze willen doorgroeien in heel Europa.
+
+# 👩🏼‍💻👩🏾‍💻👨🏻‍💻👨🏼‍💻 Kenmerken
+
+Lijst met gebruikte tools, technieken en communicatie middelen.
+
+## TOOLS 🧰:
+VSCode
+
+Miro
+
+Illustrator
+
+Pen & Papier
+
+Laptop
+## GEBRUIKTE TECHNIEKEN 🛠️:
+HTML
+
+CSS
+
+Javascript (menu)
+
+## COMMUNICATIE MIDDELEN 🗣️:
+Microsoft Teams
+
+
+## 🌐 Bronnen
+
+https://miro.com/
+https://vinimini.nl/
+https://github.com//
+https://www.google.nl/
 
 ## Licentie
 
