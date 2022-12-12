@@ -1,57 +1,78 @@
 
 # Vini Mini 🥜 - Living Styleguide
 
-<img width="1440" alt="Schermafbeelding 2022-11-18 om 09 31 15" src="https://user-images.githubusercontent.com/112856019/202656913-2764f569-25af-444b-a621-e8fafc8bcc77.png">
-
+![image](https://user-images.githubusercontent.com/112861261/202513222-da942869-c7f0-4247-a1bd-214f311c280d.png)
 
 ## 📚 Inhoudsopgave
 
-Beschrijving
-Kenmerken
-Bronnen
-Licentie
+* [Beschrijving](#beschrijving)
+* [Kenmerken](#kenmerken)
+* [Bronnen](#bronnen)
+* [Licentie](#licentie)
 
 ## 🗒️ Beschrijving
+<strong>Living Styleguide 🖌️:</strong>
+<ul>
+<li>Het doel van deze opdracht: is een Living Styleguide maken voor je opdrachtgever.</li>
+<li> Lees meer in de wiki over de hele proces, van het Living styleguide: https://github.com/Nazneen05x/look-and-feel-living-styleguide/wiki</li>
+</ul>
 
-Living Styleguide 🖌️:
+<strong>Opdrachtgever Vini Mini 🥜:</strong>
+<ul>
+<li>Vini Mini is een start up en is opgericht door twee moeders, Vini Mini verkoopt producten om vroegtijdig allergenen te voorkomen. Vini Mini wil in de toekomst hun assortiment verbreiden met meer allergenen en ze willen doorgroeien in heel Europa.</li>
+</ul>
 
-Opdrachtgever Vini Mini 🥜:
-
-Vini Mini is een start up en is opgericht door twee moeders, Vini Mini verkoopt producten om vroegtijdig allergenen te voorkomen. Vini Mini wil in de toekomst hun assortiment verbreiden met meer allergenen en ze willen doorgroeien in heel Europa.
-
-# 👩🏼‍💻👩🏾‍💻👨🏻‍💻👨🏼‍💻 Kenmerken
+## 👩🏼‍💻👩🏾‍💻👨🏻‍💻👨🏼‍💻 Kenmerken
 
 Lijst met gebruikte tools, technieken en communicatie middelen.
 
-## TOOLS 🧰:
-VSCode
+<ul>
+<li><strong>TOOLS 🧰:</strong></li>
+<li>VSCode</li>
+<li>Miro</li>
+<li>Illustrator</li>
+<li>Pen & Papier</li>
+<li>Laptop</li>
+</ul>
 
-Miro
+<ul>
+<li><strong>GEBRUIKTE TECHNIEKEN 🛠️:</strong></li>
+<li>HTML</li>
+<li>CSS</li>
+<li>Javascript (menu)</li>
+</ul>
 
-Illustrator
+<ul>
+<li><strong>COMMUNICATIE MIDDELEN 🗣️:</strong></li>
+<li>Microsoft Teams</li>
+</ul>
 
-Pen & Papier
+## 💻 Gebruik
 
-Laptop
-## GEBRUIKTE TECHNIEKEN 🛠️:
-HTML
+Het gemaakte Living Styleguide, kun je bekijken op desktop en mobile (telefoon).
 
-CSS
+![image](https://user-images.githubusercontent.com/112861261/202927546-117e4a6c-ad6e-432c-8e01-e5d98b90568e.png)
 
-Javascript (menu)
-
-## COMMUNICATIE MIDDELEN 🗣️:
-Microsoft Teams
+Bekijk hier de website: http://living-styleguide-vinimini.student.fdnd.nl/
 
 
 ## 🌐 Bronnen
 
-https://miro.com/
-https://vinimini.nl/
-https://github.com//
-https://www.google.nl/
+<ul>
 
-## Licentie
+<li>https://miro.com/app/board/uXjVPEccf3o=/</li>
+
+<li>https://vinimini.nl/</li>
+
+<li>https://github.com//</li>
+
+<li>https://www.google.nl/</li>
+
+</ul>
+
+
+
+## 🔒 Licentie
 
 ![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
 
