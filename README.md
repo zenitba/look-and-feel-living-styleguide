@@ -1,6 +1,8 @@
 
 # Vini Mini 🥜 - Living Styleguide
 
+http://living-styleguide-vinimini.student.fdnd.nl
+
 ![image](https://user-images.githubusercontent.com/112861261/202513222-da942869-c7f0-4247-a1bd-214f311c280d.png)
 
 ## 📚 Inhoudsopgave
